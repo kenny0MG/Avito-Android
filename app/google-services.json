@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051954399086",
+    "project_id": "booksavitostas",
+    "storage_bucket": "booksavitostas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051954399086:android:96aae3b2ca84f103b5a37f",
+        "android_client_info": {
+          "package_name": "inc.blink.booksavito"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZXTiEJRZRwPSY8d1-J4FvJn3Fl1FatwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
